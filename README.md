@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+## I am a graphics developer working on **Open Source apps** for macOS and iOS
+
+- [Denrim](https://github.com/markusmoenig/Denrim) is a 2D game creator utilizing text based behavior trees and other cool stuff.
+- [ShaderMania](https://github.com/markusmoenig/ShaderMania) is a Metal shader editor, great for live coding and trying out your fragment shaders.
+- **Signed** will be a modeling and rendering app for procedural signed distance fields (coming soon!)
+
+### Connect with me:
+
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />][patreon]
+
+[twitter]: https://twitter.com/markusmoenig
+[youtube]: https://youtube.com/markusmoenig
+[patreon]: https://www.patreon.com/markusmoenig
+
 <!--
 **markusmoenig/markusmoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

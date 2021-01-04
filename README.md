@@ -10,11 +10,12 @@
 
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />][patreon]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ko-fi.svg" />][kofi]
 
 [twitter]: https://twitter.com/markusmoenig
 [youtube]: https://youtube.com/markusmoenig
 [patreon]: https://www.patreon.com/markusmoenig
+[kofi]: https://www.ko-fi.com/markusmoenig
 
 <!--
 **markusmoenig/markusmoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

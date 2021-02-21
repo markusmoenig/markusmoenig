@@ -15,7 +15,7 @@
 [twitter]: https://twitter.com/markusmoenig
 [youtube]: https://youtube.com/markusmoenig
 [patreon]: https://www.patreon.com/markusmoenig
-[paypal]: https://www.patreon.me/markusmoenig
+[paypal]: https://www.paypal.me/markusmoenig
 [kofi]: https://www.ko-fi.com/markusmoenig
 
 <!--

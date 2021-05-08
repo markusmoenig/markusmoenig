@@ -4,6 +4,7 @@
 
 - [ShaderMania](https://github.com/markusmoenig/ShaderMania) is a Metal shader editor, great for live coding and trying out your fragment shaders.
 - [Denrim](https://github.com/markusmoenig/Denrim) is a 2D game creator utilizing text based behavior trees and other cool stuff.
+- [Fabricated](https://github.com/markusmoenig/Fabricated) will be a procedural game and game asset creator.
 - [Signed](https://github.com/markusmoenig/Signed) will be a modeling and rendering package for procedural signed distance functions (SDFs).
 
 ### Connect with me:

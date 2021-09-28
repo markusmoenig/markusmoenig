@@ -7,6 +7,8 @@
 - [Denrim](https://github.com/markusmoenig/Denrim) is a 2D game creator utilizing text based behavior trees and other cool stuff.
 - [Fabricated](https://github.com/markusmoenig/Fabricated) will be a procedural game and game asset creator.
 
+<!--
+
 ### Connect with me:
 
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -19,7 +21,7 @@
 [paypal]: https://www.paypal.me/markusmoenig
 [kofi]: https://www.ko-fi.com/markusmoenig
 
-<!--
+
 **markusmoenig/markusmoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

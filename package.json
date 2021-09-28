@@ -1,6 +1,6 @@
 {
-  "name": "Markus Moenig's Open Source Graphic Apps",
-  "version": "0.0.0",
+  "name": "hexo",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "build": "hexo generate",

@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Markus Moenig's Open Source Graphics Apps
+title: 'Hi there'
 subtitle: ''
-description: Open source graphic applications for iOS and OSX
-keywords: open source, graphics, apps, ios, osx, metal, shader
-author: Markus Moenig
+description: 'Open source graphic applications for iOS and OSX'
+keywords: 'open source, graphics, apps, ios, osx, metal, shader'
+author: 'Markus Moenig'
 language: en
-timezone: Thailand
+timezone: Asia/Bangkok
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: claudia
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

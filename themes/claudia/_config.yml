@@ -1,6 +1,7 @@
 # main menu navigation
 menu:
   Home: /
+  ShaderMania: /shadermania
   About: /about
   Archive: /archives
 
@@ -30,7 +31,7 @@ user:
 # documents: https://github.com/utterance/utterances
 # API config: https://utteranc.es/
 comment_utteranc:
-  enable: true
+  enable: false
   repo: markusmoenig/markusmoenig # your blog repo
 
 

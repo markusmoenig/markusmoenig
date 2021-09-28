@@ -14,10 +14,10 @@ widgets:
 # social config
 social:
   zhihu:
-  twitter: /
-  facebook: /
+  twitter: markusmoenig
+  facebook: 
   linkedin:
-  instagram: /
+  instagram: 
   github: markusmoenig
 
 user:

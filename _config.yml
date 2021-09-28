@@ -5,15 +5,15 @@
 # Site
 title: Markus Moenig's Open Source Graphics Apps
 subtitle: ''
-description: ''
-keywords:
+description: Open source graphic applications for iOS and OSX
+keywords: open source, graphics, apps, ios, osx, metal, shader
 author: Markus Moenig
 language: en
-timezone: ''
+timezone: Thailand
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://markusmoenig.github.io/markusmoenig
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

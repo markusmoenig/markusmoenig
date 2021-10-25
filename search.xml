@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>DenrimScript</title>
+      <link href="/2021/10/25/denrimscript/"/>
+      <url>/2021/10/25/denrimscript/</url>
+      
+        <content type="html"><![CDATA[<p>Released a first version of my scripting language <a href="https://github.com/markusmoenig/DenrimScript">DenrimScript</a> which features CPU AND GPU support via compute shader functions. Based on the great book <a href="https://www.craftinginterpreters.com/">Crafting Interpreters</a> from <a href="https://twitter.com/munificentbob">@munificentbob</a>.</p><p><img src="images/denrimscript.png"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> metal, gpu, scripting, programming, language </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Welcome!</title>
       <link href="/2021/09/28/Welcome/"/>
       <url>/2021/09/28/Welcome/</url>

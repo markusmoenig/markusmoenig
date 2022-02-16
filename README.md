@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am a graphics developer working on **Open Source apps** for macOS and iOS
+## I am a graphics developer working on **Open Source apps and games**
 
 - [Signed](https://github.com/markusmoenig/Signed) is a 3D modeling and construction language based on Lua and signed distance functions (SDFs).
 - [ShaderMania](https://github.com/markusmoenig/ShaderMania) is a Metal shader editor, great for live coding and trying out your fragment shaders.

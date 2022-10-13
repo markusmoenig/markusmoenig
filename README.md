@@ -1,4 +1,7 @@
 ### Hi there, enjoy my projects 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markusmoenig)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 
 ## I am a graphics developer working on **Open Source apps and games**

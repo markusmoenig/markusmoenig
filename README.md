@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, enjoy my projects 👋
+<!--
 
 ## I am a graphics developer working on **Open Source apps and games**
 
@@ -6,8 +7,6 @@
 - [ShaderMania](https://github.com/markusmoenig/ShaderMania) is a Metal shader editor, great for live coding and trying out your fragment shaders.
 - [Denrim](https://github.com/markusmoenig/Denrim) is a 2D game creator utilizing text based behavior trees and other cool stuff.
 - [Fabricated](https://github.com/markusmoenig/Fabricated) will be a procedural game and game asset creator.
-
-<!--
 
 ### Connect with me:
 
